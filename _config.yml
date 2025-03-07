@@ -12,7 +12,8 @@ lang: en
 timezone:
 
 # jekyll-seo-tag settings ??? https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-# ?†“ --------------------------
+# ?ï¿½ï¿½ --------------------------
+
 published: true
 title: Chirpy # the main title
 
@@ -53,7 +54,7 @@ webmaster_verifications:
   baidu: # fill in your Baidu verification code
   facebook: # fill in your Facebook verification code
 
-# ?†‘ --------------------------
+# ?ï¿½ï¿½ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 # Web Analytics Settings
